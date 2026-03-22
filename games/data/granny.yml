@@ -75,6 +75,5 @@ thunderstore:
       name: "Modpacks"
       requireCategories:
         - "modpacks"
-  autolistPackageIds:
-    - "BepInEx-BepInExPack_IL2CPP"
+  autolistPackageIds: []
   shortDescription: "Welcome to Granny. Granny keeps you locked in her house and she will not let you go. You have to search the house and find keys and other objects to unlock the door and escape, but be careful because Granny hears everything."
